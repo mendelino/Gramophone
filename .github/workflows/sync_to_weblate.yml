@@ -1,7 +1,7 @@
 name: Sync English strings to Weblate branch
 
 on:
-  push:
+  workflow_dispatch:
     branches:
       - beta
 
